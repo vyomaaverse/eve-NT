@@ -27,6 +27,9 @@
     "@mantine/core": "^5.9.5",
     "@mantine/hooks": "^5.9.5",
     "@mantine/next": "^5.9.5",
+    "@supabase/auth-helpers-nextjs": "^0.5.2",
+    "@supabase/auth-helpers-react": "^0.3.1",
+    "@supabase/auth-ui-react": "^0.2.6",
     "framer-motion": "^8.0.2",
     "react-icons": "^4.7.1"
   }
